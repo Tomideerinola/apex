@@ -4,3 +4,27 @@ instance/
 __pycache__/
 *.pyc
 venv/
+
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+vapex/
+.env/
+.venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# macOS files
+.DS_Store
+
+# Flask instance files
+instance/
+
+# Editor settings
+.vscode/
